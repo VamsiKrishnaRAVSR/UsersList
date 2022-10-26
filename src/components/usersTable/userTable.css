@@ -1,0 +1,27 @@
+.table_header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* padding: 0px 5px; */
+  align-items: center;
+  box-sizing: border-box;
+}
+.buttonComponent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.up {
+  margin: none;
+  padding: none;
+  background-color: rgb(236, 228, 228, 0.6);
+  color: red;
+}
+
+.table_footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}

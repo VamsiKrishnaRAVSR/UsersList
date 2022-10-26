@@ -1,0 +1,174 @@
+{
+  "User": [
+    {
+      "id": 2,
+      "first_name": "Anaa",
+      "last_name": "Blackaller",
+      "date_of_birth": "1997-11-25",
+      "address": "8665 Straubel Crossing",
+      "city": "Shijia",
+      "pincode": "7747",
+      "avatar": "http://dummyimage.com/108x100.png/dddddd/000000"
+    },
+    {
+      "id": 3,
+      "first_name": "Duff",
+      "last_name": "Argabrite",
+      "date_of_birth": "1998-07-31",
+      "address": "100 Buell Point",
+      "city": "Carmen",
+      "pincode": "55",
+      "avatar": "http://dummyimage.com/198x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 4,
+      "first_name": "Janna",
+      "last_name": "Poznanski",
+      "date_of_birth": "1996-04-23",
+      "address": "19438 La Follette Junction",
+      "city": "Qo‘qon",
+      "pincode": "18",
+      "avatar": "http://dummyimage.com/161x100.png/dddddd/000000"
+    },
+    {
+      "id": 5,
+      "first_name": "Neala",
+      "last_name": "Musgrove",
+      "date_of_birth": "1997-03-28",
+      "address": "46100 Larry Way",
+      "city": "Manning",
+      "pincode": "40",
+      "avatar": "http://dummyimage.com/165x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 6,
+      "first_name": "Fanechka",
+      "last_name": "Plose",
+      "date_of_birth": "1997-02-03",
+      "address": "1923 Eagle Crest Crossing",
+      "city": "Wassa-Akropong",
+      "pincode": "912",
+      "avatar": "http://dummyimage.com/116x100.png/dddddd/000000"
+    },
+    {
+      "id": 7,
+      "first_name": "Omar",
+      "last_name": "Eaglesham",
+      "date_of_birth": "1996-09-23",
+      "address": "306 Cambridge Center",
+      "city": "Moche",
+      "pincode": "687",
+      "avatar": "http://dummyimage.com/241x100.png/dddddd/000000"
+    },
+    {
+      "id": 8,
+      "first_name": "Curry",
+      "last_name": "Josling",
+      "date_of_birth": "1995-10-25",
+      "address": "58 Farwell Court",
+      "city": "Barretos",
+      "pincode": "01462",
+      "avatar": "http://dummyimage.com/178x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 9,
+      "first_name": "Loretta",
+      "last_name": "Wooland",
+      "date_of_birth": "1996-06-24",
+      "address": "7122 Saint Paul Alley",
+      "city": "Choco",
+      "pincode": "23",
+      "avatar": "http://dummyimage.com/245x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 10,
+      "first_name": "Bing",
+      "last_name": "Benjefield",
+      "date_of_birth": "1996-07-13",
+      "address": "2164 Service Point",
+      "city": "Tuojiang",
+      "pincode": "24",
+      "avatar": "http://dummyimage.com/196x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 11,
+      "first_name": "Brit",
+      "last_name": "Midlane",
+      "date_of_birth": "1994-04-14",
+      "address": "0810 Bashford Center",
+      "city": "Binuangan",
+      "pincode": "5",
+      "avatar": "http://dummyimage.com/157x100.png/dddddd/000000"
+    },
+    {
+      "id": 12,
+      "first_name": "Vlad",
+      "last_name": "Bernardo",
+      "date_of_birth": "2000-04-24",
+      "address": "50630 Merry Crossing",
+      "city": "Tibro",
+      "pincode": "9187",
+      "avatar": "http://dummyimage.com/115x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 13,
+      "first_name": "Lindsey",
+      "last_name": "Kelsall",
+      "date_of_birth": "1999-04-02",
+      "address": "213 Gerald Place",
+      "city": "Patos Fshat",
+      "pincode": "4045",
+      "avatar": "http://dummyimage.com/223x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 14,
+      "first_name": "Rodrigo",
+      "last_name": "Pritchett",
+      "date_of_birth": "1997-01-02",
+      "address": "9260 Linden Point",
+      "city": "Ibaté",
+      "pincode": "0817",
+      "avatar": "http://dummyimage.com/150x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 15,
+      "first_name": "Faustina",
+      "last_name": "Willgress",
+      "date_of_birth": "1997-04-29",
+      "address": "3 West Drive",
+      "city": "Néos Mylótopos",
+      "pincode": "06544",
+      "avatar": "http://dummyimage.com/131x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 16,
+      "first_name": "Gertruda",
+      "last_name": "Budgen",
+      "date_of_birth": "1998-11-04",
+      "address": "72 Bluejay Junction",
+      "city": "Samayac",
+      "pincode": "51067",
+      "avatar": "http://dummyimage.com/234x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 17,
+      "first_name": "Edgard",
+      "last_name": "Blacket",
+      "date_of_birth": "1999-06-24",
+      "address": "45 Daystar Street",
+      "city": "Ulaanbaatar",
+      "pincode": "707",
+      "avatar": "http://dummyimage.com/153x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 1,
+      "first_name": "Pierette123",
+      "last_name": "Bing",
+      "date_of_birth": "1986-05-06",
+      "address": "8-12/1",
+      "city": "Visakhapatnam1111",
+      "pincode": "530046",
+      "avatar": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg"
+    }
+  ]
+}
